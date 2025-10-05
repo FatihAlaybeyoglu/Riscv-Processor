@@ -1,0 +1,21 @@
+Cycle count[0] =         203   //00000000
+Cycle count[1] =         204   //00000001
+Cycle count[2] =         204   //00000200
+Cycle count[3] =         204   //00400000
+Cycle count[4] =         204   //80000000
+Cycle count[5] =         213   //51C06460
+Cycle count[6] =         221   //DEC287D9
+Cycle count[7] =         217   //6C896594
+Cycle count[8] =         219   //99999999
+Cycle count[9] =         235   //FFFFFFFF
+Cycle count[10] =        234   //7FFFFFFF
+Cycle count[11] =        234   //FFFFFFFE
+Cycle count[12] =        219   //C7B52169
+Cycle count[13] =        223   //8CEFF731
+Cycle count[14] =        216   //A550921E
+Cycle count[15] =        218   //0DB01F33
+Cycle count[16] =        219   //24BB7B48
+Cycle count[17] =        215   //98513914
+Cycle count[18] =        221   //CD76ED30
+Cycle count[19] =        207   //C0000003
+Total cycles: 4355
